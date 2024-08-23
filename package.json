@@ -1,5 +1,5 @@
 {
-  "name": "Filesystem_Fault_Detection",
-  "description": "Generous application of checksums to warn you of bit flips and bad sectors before it is too late.",
-  "version": "3.8.1"
+  "name": "Disk_Space_Optimization",
+  "description": "Novel compression algorithms can let you store more files in smaller spaces than ever before.",
+  "version": "4.8.1"
 }
